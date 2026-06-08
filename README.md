@@ -1,3 +1,7 @@
+- **This repository has	been archived and is no longer maintained.**
+- The code is provided for historical reference	and may	contain	unpatched or unknown vulnerabilities.
+- It should **not** be used in production systems.
+
 # CCPP Physics
 
 The Common Community Physics Package (CCPP) is designed to facilitate the implementation of physics innovations in state-of-the-art atmospheric models, the use of various models to develop physics, and the acceleration of transition of physics innovations to operational NOAA models.
